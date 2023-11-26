@@ -85,7 +85,7 @@
     "tab.activeForeground": "#393a34",
     "tab.inactiveForeground": "#6a737d",
     "tab.inactiveBackground": "#F1F0E9",
-    "tab.activeBackground": "#F1F0E9",
+    "tab.activeBackground": "#E7E5DB",
     "tab.hoverBackground": "#E7E5DB",
     "tab.unfocusedHoverBackground": "#F1F0E9",
     "tab.border": "#E7E5DB",

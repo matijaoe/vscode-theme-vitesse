@@ -129,7 +129,7 @@ export default function getTheme(options: GetThemeOptions) {
       'tab.activeForeground': foreground,
       'tab.inactiveForeground': colors.gray[5],
       'tab.inactiveBackground': background,
-      'tab.activeBackground': background,
+      'tab.activeBackground': activeBackground,
       'tab.hoverBackground': activeBackground,
       'tab.unfocusedHoverBackground': background,
       'tab.border': border,
