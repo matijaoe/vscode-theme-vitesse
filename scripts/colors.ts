@@ -32,7 +32,7 @@ export const VitesseThemes = {
   // soft overrides
   softBackground: ['#222', '#F1F0E9'],
   softActiveBackground: ['#292929', '#E7E5DB'],
-  softBorder: ['#252525', '#E7E5DB'],
+  softBorder: ['#292929', '#E7E5DB'],
 
   // black overrides
   blackForeground: '#dbd7cacc',
