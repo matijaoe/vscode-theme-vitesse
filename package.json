@@ -1,17 +1,17 @@
 {
-  "publisher": "antfu",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
-  "version": "0.7.5",
+  "publisher": "matijao",
+  "name": "matijao-theme-vitesse",
+  "displayName": "Vitesse Theme (matijao)",
+  "version": "0.7.6",
   "packageManager": "pnpm@8.11.0",
   "description": "Vitesse theme for VS Code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/matijaoe/vscode-theme-vitesse"
   },
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/matijaoe/vscode-theme-vitesse/issues"
   },
   "keywords": [
     "theme",
