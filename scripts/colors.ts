@@ -21,7 +21,7 @@ export const VitesseThemes = {
 
   ignored: ['#dedcd550', '#393a3450'],
   faded: ['#dedcd510', '#393a3410'],
-  border: ['#191919', '#f0f0f0'],
+  border: ['#191919', '#ackf0f0f0'],
 
   background: ['#121212', '#ffffff'],
   activeBackground: ['#181818', '#f7f7f7'],
